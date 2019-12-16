@@ -1,6 +1,6 @@
-package com.priyankan.demo.spring.boot.model;
+package com.rushikeshk.demo.spring.boot.model;
 
-public class Product {
+public class ProductObject {
 	
 	private Integer id;
     private String productId;
